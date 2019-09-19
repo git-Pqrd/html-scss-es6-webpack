@@ -2,7 +2,7 @@
 
 #TODO 
 ```
-git clone X
+git clone https://github.com/git-Pqrd/html-scss-es6-webpack
 npm i
 npm run watch 
 npm install -g live-server
